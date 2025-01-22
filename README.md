@@ -1,0 +1,1 @@
+# MagnaSoft-OCR-System
